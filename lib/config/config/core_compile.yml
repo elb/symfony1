@@ -20,6 +20,17 @@
 - %SF_SYMFONY_LIB_DIR%/util/sfNamespacedParameterHolder.class.php
 - %SF_SYMFONY_LIB_DIR%/view/sfView.class.php
 - %SF_SYMFONY_LIB_DIR%/view/sfViewParameterHolder.class.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainer.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerBuilder.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerDumper.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerDumperPhp.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerLoaderInterface.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerInterface.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerLoader.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceDefinition.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceParameter.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceReference.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerLoaderArray.php
 
 # these classes are optionals but very likely to be used (in web context)
 - %SF_SYMFONY_LIB_DIR%/controller/sfWebController.class.php

@@ -228,6 +228,7 @@ class sfCoreAutoload
     'sfrootconfighandler' => 'config/sfRootConfigHandler.class.php',
     'sfroutingconfighandler' => 'config/sfRoutingConfigHandler.class.php',
     'sfsecurityconfighandler' => 'config/sfSecurityConfigHandler.class.php',
+    'sfserviceconfighandler' => 'config/sfServiceConfigHandler.class.php',
     'sfsimpleyamlconfighandler' => 'config/sfSimpleYamlConfigHandler.class.php',
     'sfviewconfighandler' => 'config/sfViewConfigHandler.class.php',
     'sfyamlconfighandler' => 'config/sfYamlConfigHandler.class.php',
