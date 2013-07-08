@@ -1,0 +1,4 @@
+[submodule "lib/vendor/dependency-injection"]
+	path = lib/vendor/dependency-injection
+	url = https://github.com/elb/dependency-injection.git
+	branch = sf1
