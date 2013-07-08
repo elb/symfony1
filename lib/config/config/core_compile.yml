@@ -22,6 +22,7 @@
 - %SF_SYMFONY_LIB_DIR%/view/sfViewParameterHolder.class.php
 - %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainer.php
 - %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerBuilder.php
+- %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerDumperInterface.php
 - %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerDumper.php
 - %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerDumperPhp.php
 - %SF_SYMFONY_LIB_DIR%/vendor/dependency-injection/lib/sfServiceContainerLoaderInterface.php
